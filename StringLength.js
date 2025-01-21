@@ -10,4 +10,4 @@ function solve (first, second, third){
 }
 
 solve('chocolate', 'ice cream', 'cake')
-solve ('pasta', '5', '22.3')
+solve ('pasta', '5', '22.
